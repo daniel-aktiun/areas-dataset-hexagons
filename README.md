@@ -21,4 +21,4 @@ Run the project
 For change the limit go to App.js. line 11
 
 
-### limit: "SMALL", //Available limits TINY=10, SMALL=10.000, MEDIUM=100.000, LARGE=1000.000
+### `limit: "SMALL", //Available limits TINY=10, SMALL=10.000, MEDIUM=100.000, LARGE=1000.000`
